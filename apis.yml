@@ -1,0 +1,32 @@
+aid: hirak-exchange-rates
+name: Hirak Exchange Rates
+description: "Exchange rates between 162 currency & 300 crypto currency update each 5 min, accurate, no limits"
+url: https://rates.hirak.site/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cryptocurrency"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cryptocurrency
+  - Public APIs
+apis:
+  - name: Hirak Exchange Rates
+    description: "Exchange rates between 162 currency & 300 crypto currency update each 5 min, accurate, no limits"
+    humanURL: https://rates.hirak.site/
+    baseURL: https://rates.hirak.site/
+    tags:
+      - Cryptocurrency
+    properties:
+      - type: Documentation
+        url: https://rates.hirak.site/
+common:
+  - type: Website
+    url: https://rates.hirak.site/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
