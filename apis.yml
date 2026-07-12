@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://rates.hirak.site/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/hirak-exchange-rates-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/hirak-exchange-rates-domain-security.yml
   - type: Website
     url: https://rates.hirak.site/
   - type: PublicAPIsListing
