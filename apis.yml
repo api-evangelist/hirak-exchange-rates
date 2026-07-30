@@ -1,4 +1,16 @@
 aid: hirak-exchange-rates
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/hirak-exchange-rates.png
 name: Hirak Exchange Rates
 description: "Exchange rates between 162 currency & 300 crypto currency update each 5 min, accurate, no limits"
 url: https://rates.hirak.site/
