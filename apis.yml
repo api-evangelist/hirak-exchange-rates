@@ -39,7 +39,6 @@ apis:
   - name: Hirak Exchange Rates
     description: "Exchange rates between 162 currency & 300 crypto currency update each 5 min, accurate, no limits"
     humanURL: https://rates.hirak.site/
-    baseURL: https://rates.hirak.site/
     tags:
       - Cryptocurrency
     properties:
